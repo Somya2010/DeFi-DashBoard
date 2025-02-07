@@ -1,4 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DiFi Dashboard  
+
+## Overview  
+The **DiFi Dashboard** is a **Multiwallet Dashboard** designed to streamline the management of multiple wallets and blockchain networks. Users often operate across various chains and wallets, making it difficult to track balances, transactions, and portfolio performance in one place. This dashboard provides a **unified interface** to manage, monitor, and interact with multiple wallets seamlessly.  
+
+With the increasing adoption of decentralized finance (DeFi), users frequently interact with multiple wallets on different blockchain networks. However, tracking assets, transactions, and balances across these platforms is **cumbersome and inefficient**. The **DiFi Dashboard** solves this by integrating multiple wallets into a single, easy-to-use interface.  
+
+## Key Features  
+- **Multiwallet Integration:** Connect and manage multiple wallets across various blockchains.  
+- **Cross-Chain Support:** View assets across different chains without switching platforms.  
+- **Real-time Portfolio Tracking:** Get updated balances, token holdings, and price movements.  
+- **Transaction History:** Track past transactions across multiple wallets in one place.  
+- **Custom Alerts & Notifications:** Stay informed about wallet activity and significant price changes.  
+- **Security & Privacy:** User data is securely handled, with **non-custodial** wallet connections.  
+
+## Technologies Used  
+- **Frontend:** React.js / Next.js (for a responsive and intuitive UI)  
+- **Backend:** Node.js / Express.js  
+- **Blockchain Integration:** Web3.js / Ethers.js (for wallet interactions)  
+- **Database:** MongoDB / Firebase (for storing non-sensitive user data)  
+- **APIs & Services:**  
+  - CoinGecko / CoinMarketCap (for price tracking)  
+  - WalletConnect / MetaMask API (for wallet integration)
+  
+[videoplayback.webm](https://github.com/user-attachments/assets/ef9cb130-76ff-46bc-afd5-79ad58410842)
 
 ## Getting Started
 
