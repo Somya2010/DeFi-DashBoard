@@ -5,6 +5,7 @@ The **DiFi Dashboard** is a **Multiwallet Dashboard** designed to streamline the
 
 With the increasing adoption of decentralized finance (DeFi), users frequently interact with multiple wallets on different blockchain networks. However, tracking assets, transactions, and balances across these platforms is **cumbersome and inefficient**. The **DiFi Dashboard** solves this by integrating multiple wallets into a single, easy-to-use interface.  
 
+
 ## Key Features  
 - **Multiwallet Integration:** Connect and manage multiple wallets across various blockchains.  
 - **Cross-Chain Support:** View assets across different chains without switching platforms.  
